@@ -9,3 +9,4 @@ Commit 2 - feature1
 Commit 3 - feature1
 Commit 1 - feature2
 Commit 2 - feature2
+Commit 3 - feature2
