@@ -4,3 +4,6 @@ Commit 3 - Main
 Commit 1 - feature3
 Commit 2 - feature3
 Commit 3 - feature3
+Commit 1 - feature1
+Commit 2 - feature1
+Commit 3 - feature1
